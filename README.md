@@ -1,7 +1,7 @@
 # Metal Gear Rising — Omarchy theme
 
 Remember the most ridiculous game in your library? All that visceral cutting and
-dicing? Manic Agenda not included but you hopefully know how to cliamp on your
+dicing? Maniac Agenda not included but you hopefully know how to cliamp on your
 hypr — Rules of Nature. What if your desktop ran **logo electric cyan →
 HF-blade orange** on a gunmetal void instead of another flat dark mode? Same dual-accent border trick as Asphalt, HEV, Galuga, CS, Cyber Shadow, Doom 2016, Eternal, Caged, KI, Stanley, SF6, T2D & USFIV —
 different battlefield.
